@@ -1,0 +1,15 @@
+.movie{
+	width:800px;
+	margin: auto;
+	background-color: #d0ebef;
+
+}
+#details{
+	margin-left: 20px;
+}
+#movie{
+	margin-left: 20px;
+}
+h1{
+	text-align: center;
+}
